@@ -15,3 +15,6 @@ https://github.com/everplans/data-codetest
 
 **How To Run:**
 - This note book can be downloaded and run in Jupyter notebook.
+
+**Expected result**
+- When the notebook is run it creates two csv files "Activated_user_details.csv" and "Month_wise_data.csv"
